@@ -10,7 +10,6 @@ export class ProgressoComponent implements OnInit {
   @Input() public progresso: number;
 
   constructor() {
-    console.log('progresso da tela de progresso:' + this.progresso);
   }
 
   ngOnInit(): void {

@@ -16,6 +16,16 @@ body {
   border-color: #6b911b;
 }
 
+.vitoria {
+  background-color: turquoise;
+}
+
+.derrota {
+  background-color: red;
+  width: 50em;
+  height: 50em;
+}
+
 * {
   font-family: 'Poppins', sans-serif !important;
 }
